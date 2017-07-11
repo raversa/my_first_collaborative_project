@@ -2,6 +2,7 @@ This is an extremely interesting text.
 This is the result to he work of AStudent 
 and BStudent.
 
+
 Meanwhile BStudent calls up AStudent. BStudent 
 tells him he will improve this part of the text, 
 he will do this on a different branch so that he 
